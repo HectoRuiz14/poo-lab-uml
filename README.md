@@ -1,2 +1,2 @@
 # poo-lab-uml
-Hector Ruiz
+Hector Ruiz, Santiago Santana Nieto
